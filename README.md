@@ -1,8 +1,8 @@
 ### Oii Griffinho aqui👨‍🚀
 
-🔭 Estutande do Instituto Proa.
-🌱 Estudando JavaSript, MYSQL e Java.
-⚡ Também sou Rapper kkk
+🔭 Estutande do Instituto Proa.<br>
+🌱 Estudando JavaSript, MYSQL e Java.<br>
+⚡ Também sou Rapper kkk<br>
 
  <div >
   <a href="https://github.com/griffinho">
