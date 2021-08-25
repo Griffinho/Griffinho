@@ -2,6 +2,7 @@
 
 🔭 Estutande do Instituto Proa.<br>
 🌱 Estudando JavaSript, MYSQL e Java.<br>
+💻 Desenvolvedor Back-End <br>
 ⚡ Também sou Rapper kkk<br>
 
  <div >
