@@ -1,6 +1,6 @@
 ### Oii Griffinho aqui👨‍🚀
 🔭 Estutande do Instituto Proa.<br>
-🌱 Estudando JavaSript, MYSQL e Java.<br>
+🌱 Estudando JavaSript, ReactJS e Node<br>
 💻 Desenvolvedor Full Stack<br>
 👨‍🎓 Estudante de Analise de Desenvolvimento de Sistemas
 
